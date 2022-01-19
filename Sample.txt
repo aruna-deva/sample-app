@@ -6,3 +6,5 @@ the command sequences are git add Sample.txt
 git commit -m "File Updated"
 git push -u origin main
 after every edit or completion of task we have to repeat the above comments to push the updated version to the online repository so that other collegues can access the updated code file
+Files contents are changed by cloning it to the another folder and making changes
+the changed content will be uploaded back to the online repository
